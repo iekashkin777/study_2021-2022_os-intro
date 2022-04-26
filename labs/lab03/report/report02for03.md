@@ -121,14 +121,14 @@ header-includes:
    -1. «ssh-keygen    -t    rsa    -b    4096»
    -2. «ssh-keygen    -t    ed25519»
    
-![Создание ключа ssh](image/5/1.png){ #fig:005.1 width=70% }
+![Создание ключа ssh](image/5.1.png){ #fig:005.1 width=70% }
 
-![Создание ключа ssh](image/5/2.png){ #fig:005.2 width=70% }
+![Создание ключа ssh](image/5.2.png){ #fig:005.2 width=70% }
 
 -После создаем ключ gpg: (рис. [-@fig:006])
    -1. «gpg    --full-generate-key»
    
-![Создание ключа gpg](image/6.jpg){ #fig:006 width=70% }
+![Создание ключа gpg](image/6.png){ #fig:006 width=70% }
 
 -Добавим этот ключ в GitHub (рис. [-@fig:007.1])(рис. [-@fig:007.2])(рис. [-@fig:007.3])(рис. [-@fig:007.4]) (<PGP    Fingerprint>    |    xclip    -sel    clip – Эта часть команды у меня не работал и я писал свой «Отпечаток_ключа»)
 
