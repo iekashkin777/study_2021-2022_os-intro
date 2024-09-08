@@ -1,0 +1,28 @@
+Rutube 
+Плейлист: https://rutube.ru/plst/551458
+
+Лаб№1 https://rutube.ru/video/private/20e0c4143978313dc3ceb501b4c8162b/?p=IyZ2tNWBWYH3up2uQrd0HA
+
+Отчет https://rutube.ru/video/private/ddc3330516b52c65b69f64655f7fc1dc/?p=YdDVqK55pmOeBjA1atnmng
+
+Презентация https://rutube.ru/video/private/72c392a38c23ed404058fceb323c806d/?p=zfObCuaSBG6DWCP4zh9qdQ
+
+Защита https://rutube.ru/video/private/fa7a73db290796f8b154eb3fcbf008e1/?p=5-zxSH2hpKURHjYgymXTfw
+
+Платформа 
+
+Плейлист: https://plvideo.ru/playlist?list=am06TXp9LgYP
+
+Лаб№1 https://plvideo.ru/watch?v=gAcrPNsF5lEq
+
+Отчет https://plvideo.ru/watch?v=cxbbR1z2yeAQ
+
+Презентация https://plvideo.ru/watch?v=wG69BU576Ltj
+
+Защита https://plvideo.ru/watch?v=TZFQxm5NAOPY
+
+git 
+
+Репозиторий https://github.com/iekashkin777/IS-intro/tree/master
+
+Лаб№1 https://github.com/iekashkin777/IS-intro/tree/master/laboratory/Lab№1
